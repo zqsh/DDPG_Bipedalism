@@ -8,3 +8,6 @@
 > * tensorflow with gpu
 > * gym
 > * numpy
+
+# Implement details
+detail see [here](https://zqsh.github.io/blog/2018/04/02/Bipedalism-meets-DDPG/)
